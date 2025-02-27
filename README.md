@@ -7,6 +7,9 @@ The Ticketmaster Event Finder allows user to find and save events of interest on
 The website allows users to search for events based on specific criteria, which leads to a list of all events that match your search. 
 If you are interested in an event, you can look into the event on our website, and you will be given all relevant information and data about the event. 
 If you are interested in the event, you can add it to your saved events list and check out all your saved events later. 
+
+Note: The API key is not sensitve, so it is included in our script.
+
 ## Description of target browsers (iOS? Android? Which ones?)
 The website is available for anyone to use on any device or browser.
 
