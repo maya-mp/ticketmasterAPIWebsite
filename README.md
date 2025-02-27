@@ -10,7 +10,7 @@ If you are interested in the event, you can add it to your saved events list and
 
 Note: The API key is not sensitve, so it is included in our script.
 
-## Description of target browsers (iOS? Android? Which ones?)
+## Description of target browsers 
 The website is available for anyone to use on any device or browser.
 
 # Developer Manual 
@@ -46,7 +46,7 @@ To test searching for an event, select any of the five critera choices listed an
 
 Once you have searched for an event and looked at the details of a specfic event, you will find that there is a "Save Event" button in the bottom right corner. Test our saved events page by saving a couple of events and checking to see how the Saved Events page updates based on your additions.
 
-### The API for our server application - all GET, POST, PATCH, etc endpoints, and what they each do
+### The API for our server application 
 Tickermaster Discovery API https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/#overview 
 
 GET Event Search: /discovery/v2/events for finding events and filtering your search by location, date, availability, etc.
